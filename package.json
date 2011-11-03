@@ -30,7 +30,8 @@
     "rimraf": "1.0.x",
     "redis": "0.6.x >=0.6.7",
     "request": "2.1.x",
-    "winston": "0.5.x >=0.5.5"
+    "winston": "0.5.x >=0.5.5",
+    "winston-mongodb": "0.3.x"
   },
   "devDependencies": {
     "it-is": "1",
